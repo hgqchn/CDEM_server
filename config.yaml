@@ -1,0 +1,8 @@
+model_config:
+  image_resolution:
+  - 16
+  - 16
+  target_hidden: 64
+  target_hidden_layers: 3
+  use_pe: false
+
